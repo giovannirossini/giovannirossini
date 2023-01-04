@@ -1,8 +1,6 @@
 # Giovanni Rossini - @giovannirossini
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/giovannirossini)](https://github.com/giovannirossini)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rossinigiovanni/)](https://www.linkedin.com/in/rossinigiovanni/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:giovannijrrossini@gmail.com)](mailto:giovannijrrossini@gmail.com)
  
  👋🏽 Olá, sou o Giovanni - engenheiro DevOps sênior, apaixonado por aprender, criar e automatizar.
 
