@@ -23,3 +23,9 @@ I work as devops since 2017 and since then I get paid to solve problems using Li
 - 🤔 We can talk about Linux, DevOps, Docker, Kubernetes, automation... And music!
 - ✏️ I love to draw and it helps me to relax.
 - 🐶 I have a dog called Potato.
+
+---
+<!-- ![](https://github-readme-stats.vercel.app/api?username=giovannirossini&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=giovannirossini&theme=dark&hide_border=false)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannirossini&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+<!-- [![](https://visitcount.itsvg.in/api?id=giovannirossini&icon=0&color=12)](https://visitcount.itsvg.in) -->
