@@ -3,17 +3,20 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rossinigiovanni/)](https://www.linkedin.com/in/rossinigiovanni/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@rossinigiovanni)](https://medium.com/@rossinigiovanni)
 
-👋🏽 Hi, I'm Giovanni - a senior DevOps engineer, passionate about learning, creating, and automating.
+👋🏽 Hi, I am Giovanni - a senior DevOps engineer, passionate about learning, creating, and automating.
 
-I have been working as a DevOps engineer since 2017 and I enjoy solving problems using Linux and containers.
+I have been working as a DevOps engineer since 2017, and since that, I'm paid to solve problems using Linux and containers.
 
-- 🖥️ I'm currently working at [BFA Industries](https://www.linkedin.com/company/bfaindustries/mycompany/).
-- 🇪🇸 I’m currently learning Spanish.
-- 🤔 We can talk about Linux, DevOps, Docker, Kubernetes, automation... And music!
-- ✏️ I love to draw, which helps me relax.
-- 🐶 I have a dog named Potato.
+🖥️ I'm currently working at BFA Industries.
 
----
+🇪🇸 I’m currently learning Spanish, broadening my horizons, and enhancing my ability to connect with diverse clients and colleagues.
+
+🤔 We can engage in thought-provoking conversations about Linux, DevOps, Docker, Kubernetes, automation, and other related topics. I bring expertise and experience to the table, fostering knowledge exchange and mutual growth.
+
+✏️ In my free time, I indulge in drawing, which serves as a creative outlet and a means of relaxation. It fuels my imagination and allows me to recharge.
+
+In addition to my work at BFA Industries, I provide professional consultancy services and through these engagements, I bring my expertise to diverse projects and collaborate closely with clients to achieve their goals.
+
 
 <details>
   <summary><strong>Hard Skills</strong></summary>
@@ -32,7 +35,7 @@ I have been working as a DevOps engineer since 2017 and I enjoy solving problems
 | CloudFormation          | Deployment Manager       | Firewall              |
 | ElastiCache             | Cloud Deploy             | Virtual Network       |
 | Network                 | Cloud CDN                | Storage Accounts      |
-| Application Load Balancer | Monitoring and Logging | Front Door & CDN      |
+| ALB/ELB                 | Monitoring and Logging   | Front Door & CDN      |
 | EFS                     | Firewall                 | Azure Cache           |
 | EKS                     | Cloud Functions          | Data Factory          |
 | ECR                     | Memorystore              | Function App          |
@@ -50,31 +53,32 @@ I have been working as a DevOps engineer since 2017 and I enjoy solving problems
 | SNS                     |                          |                       |
 </details>
 
-| Linux                | Programming Languages | Infrastructure As Code | Observability | Databases   | Git        | Container   | CI / CD     |
-|----------------------|-----------------------|------------------------|---------------|-------------|------------|-------------|-------------|
-| Shell Script         | Python                | Terraform              | Grafana       | MongoDB     | Github     | Kubernetes  | Github Actions |
-| RegEx                | Node                  | Ansible                | New Relic     | MySQL       | Gitlab     | Docker      | Gitlab CI/CD |
-| Process Management   | Go                    | Chef                   | Prometheus    | PostgreSQL  | Bitbucket  |Docker Compose| Bitbucket Pipelines |
-| Networking Concepts  | Ruby                  | Puppet                 | Elasticsearch | Redis       |            | Docker Swarm       | Jenkins     |
-| Memory Management    |                       | Ansible Tower          | Logstash      |             |            | Nomad       | Buddy Works |
-| File System          |                       |                        | Kibana        |             |            | Argo CD     | Travis CI   |
-| Logging              |                       |                        | Zabbix        |             |            | Helm        | Circle CI   |
-| Service Management   |                       |                        | Datadog       |             |            | Podman      | Drone.io    |
-| Virtualization       |                       |                        | Splunk        |             |            | Buildah     |             |
-| Sockets              |                       |                        | AppDynamics   |             |            | Skopeo      |             |
+| Linux                | Programming Languages | Infra/Cofig Mgmt. As Code | Observability | Databases   |
+|----------------------|-----------------------|---------------------------|---------------|-------------|
+| Shell Script         | Python                | Terraform                 | Grafana       | MongoDB     |
+| RegEx                | JavaScript            | Ansible                   | New Relic     | MySQL       |
+| Process Management   | Go                    | Chef                      | Prometheus    | PostgreSQL  |
+| Networking Concepts  | Ruby                  | Puppet                    | Elasticsearch | Redis       |
+| Memory Management    |                       | Ansible Tower             | Logstash      |             |
+| File System          |                       |                           | Kibana        |             |
+| Logging              |                       |                           | Zabbix        |             |
+| Service Management   |                       |                           | Datadog       |             |
+| Virtualization       |                       |                           | Splunk        |             |
+| Sockets              |                       |                           | AppDynamics   |             |
 
-| Observability | Web Server | Others                   |
-|---------------|------------|--------------------------|
-| Zabbix        | NGINX      | Vault HashiCorp          |
-| Grafana       | Traefik    | RabbitMQ                 |
-| New Relic     | HAProxy    | Consul                   |
-| Prometheus    | Apache     | Heroku                   |
-| Logstash      |            | Istio                    |
-| Kibana        |            | Databricks               |
-| Elasticsearch |            | Sonarqube                |
-| Datadog       |            | Vagrant                  |
-| Splunk        |            | VMWare                   |
-| AppDynamics   |            |                          |
+| Version Control Systems | Container      | CI / CD             | Web Server | Others                   |
+|-------------------------|----------------|---------------------|------------|--------------------------|
+| Github                  | Kubernetes     | Github Actions      | NGINX      | Vault HashiCorp          |
+| Gitlab                  | Docker         | Gitlab CI/CD        | Traefik    | RabbitMQ                 |
+| Bitbucket               | Docker Compose | Bitbucket Pipelines | HAProxy    | Consul                   |
+|                         | Docker Swarm   | Jenkins             | Apache     | Heroku                   |
+|                         | Nomad          | Buddy Works         |            | Istio                    |
+|                         | Argo CD        | Travis CI           |            | Databricks               |
+|                         | Helm           | Circle CI           |            | Sonarqube                |
+|                         | Podman         | Drone.io            |            | Vagrant                  |
+|                         | Buildah        |                     |            | VMWare                   |
+|                         | Skopeo         |                     |            |                          |
+
 
 </details>
 
