@@ -17,7 +17,7 @@ I have been working as a DevOps engineer since 2017, and since that, I'm paid to
 
 In addition to my work at BFA Industries, I provide professional consultancy services and through these engagements, I bring my expertise to diverse projects and collaborate closely with clients to achieve their goals.
 
-
+---
 <details>
   <summary><strong>Hard Skills</strong></summary>
 <details>
@@ -81,8 +81,6 @@ In addition to my work at BFA Industries, I provide professional consultancy ser
 
 
 </details>
-
----
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=giovannirossini&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=giovannirossini&theme=dark&hide_border=false)<br/> -->
