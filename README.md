@@ -83,8 +83,8 @@ In addition to my work at BFA Industries, I provide professional consultancy ser
 </details> -->
 
 [![AWS Cloud Quest: Cloud Practitioner](/images/aws-cloud-quest-cloud-practitioner.png)](https://www.credly.com/badges/923fa5d9-0b22-4e06-8977-a4ba0d571d81/public_url)
-[![AWS Cloud Practitioner - Foundation](/images/aws-certified-cloud-practitioner.png)](https://www.credly.com/badge/8bb6d9b9-4347-4a14-88cf-8ea60a5f74b6)
-[![AWS Solutions Architect - Associate](/images/aws-certified-solutions-architect-associate.png)](https://www.credly.com/badge/8bb6d9b9-4347-4a14-88cf-8ea60a5f74b6)
+[![AWS Cloud Practitioner - Foundation](/images/aws-certified-cloud-practitioner.png)](https://www.credly.com/badges/6451549c-31f5-4ff2-adbc-00532f25a106/public_url)
+[![AWS Solutions Architect - Associate](/images/aws-certified-solutions-architect-associate.png)](https://www.credly.com/badges/abbccfe6-9a4f-4fd5-89ef-7bf0cef53f11/public_url)
 <!-- ![](https://github-readme-stats.vercel.app/api?username=giovannirossini&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=giovannirossini&theme=dark&hide_border=false)<br/> -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannirossini&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
