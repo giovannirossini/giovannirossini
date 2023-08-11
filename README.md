@@ -18,12 +18,12 @@ I have been working as a DevOps engineer since 2017, and since that, I've been p
 In addition to my work at BFA Industries, I provide professional consultancy services. Through these engagements, I bring my expertise to diverse projects and collaborate closely with clients to achieve their goals.
 
 ---
-<details>
+<!-- <details>
   <summary><strong>Hard Skills</strong></summary>
 <details>
   <summary><strong>Clouds</strong></summary>
 
- 
+
 | Amazon Web Services     | Google Cloud Platform    | Microsoft Azure       |
 |-------------------------|--------------------------|-----------------------|
 | EC2                     | Kubernetes Engine        | Azure DevOps          |
@@ -80,9 +80,11 @@ In addition to my work at BFA Industries, I provide professional consultancy ser
 |                         | Skopeo         |                     |            |                          |
 
 
-</details>
+</details> -->
 
-<!-- [![AWS Badge](/aws-certified-cloud-practitioner.png)](https://www.credly.com/badge/8bb6d9b9-4347-4a14-88cf-8ea60a5f74b6) -->
+[![AWS Cloud Quest: Cloud Practitioner](/images/aws-cloud-quest-cloud-practitioner.png)](https://www.credly.com/badges/923fa5d9-0b22-4e06-8977-a4ba0d571d81/public_url)
+[![AWS Cloud Practitioner - Foundation](/images/aws-certified-cloud-practitioner.png)](https://www.credly.com/badge/8bb6d9b9-4347-4a14-88cf-8ea60a5f74b6)
+[![AWS Solutions Architect - Associate](/images/aws-certified-solutions-architect-associate.png)](https://www.credly.com/badge/8bb6d9b9-4347-4a14-88cf-8ea60a5f74b6)
 <!-- ![](https://github-readme-stats.vercel.app/api?username=giovannirossini&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=giovannirossini&theme=dark&hide_border=false)<br/> -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=giovannirossini&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
