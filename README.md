@@ -1,5 +1,5 @@
 # Giovanni Rossini
-
+<!-- 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rossinigiovanni/)](https://www.linkedin.com/in/rossinigiovanni/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@rossinigiovanni)](https://medium.com/@rossinigiovanni)
 
@@ -9,7 +9,7 @@ I have been working as a DevOps engineer since 2017, and since that, I've been p
 
 🖥️ I'm currently working at BFA Industries.
 
-🇪🇸 I’m currently learning Spanish, broadening my horizons, and enhancing my ability to connect with diverse clients and colleagues.
+🇪🇸 I’m currently learning Spanish, broadening my horizons, and enhancing my ability to connect with diverse person.
 
 🤔 We can engage in thought-provoking conversations about Linux, DevOps, Docker, Kubernetes, automation, and other related topics. I bring expertise and experience to the table, fostering knowledge exchange and mutual growth.
 
@@ -18,7 +18,7 @@ I have been working as a DevOps engineer since 2017, and since that, I've been p
 In addition to my work at BFA Industries, I provide professional consultancy services. Through these engagements, I bring my expertise to diverse projects and collaborate closely with clients to achieve their goals.
 
 ---
-<!-- <details>
+<details>
   <summary><strong>Hard Skills</strong></summary>
 <details>
   <summary><strong>Clouds</strong></summary>
@@ -80,7 +80,7 @@ In addition to my work at BFA Industries, I provide professional consultancy ser
 |                         | Skopeo         |                     |            |                          |
 
 
-</details> -->
+</details> 
 
 <a href="https://www.credly.com/badges/923fa5d9-0b22-4e06-8977-a4ba0d571d81/public_url">
   <img src="/images/aws-cloud-quest-cloud-practitioner.png" alt="AWS Cloud Quest: Cloud Practitioner" width="120" height="120">
@@ -91,7 +91,7 @@ In addition to my work at BFA Industries, I provide professional consultancy ser
 <a href="https://www.credly.com/badges/abbccfe6-9a4f-4fd5-89ef-7bf0cef53f11/public_url">
   <img src="/images/aws-certified-solutions-architect-associate.png" alt="AWS Solutions Architect - Associate" width="120" height="120">
 </a>
-
+-->
 
 <!-- [![AWS Cloud Quest: Cloud Practitioner](/images/aws-cloud-quest-cloud-practitioner.png)](https://www.credly.com/badges/923fa5d9-0b22-4e06-8977-a4ba0d571d81/public_url) -->
 <!-- [![AWS Cloud Practitioner - Foundation](/images/aws-certified-cloud-practitioner.png)](https://www.credly.com/badges/6451549c-31f5-4ff2-adbc-00532f25a106/public_url)
